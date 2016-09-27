@@ -1,4 +1,4 @@
-
+$(document).ready(function(){
     $('#fullpage').fullpage({
         //Navigation
         lockAnchors: false,
@@ -18,7 +18,7 @@
         //scrollOverflowOptions: null
 
     });
-
+});
 $(document).ready(function(){
     $("#workList").find("li").mousemove(function(){
         $(this).find(".title-over").css({"opacity":".6"});
