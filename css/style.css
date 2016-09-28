@@ -101,7 +101,7 @@ html{
 .nav li a{
     display: block;
     padding:1rem 0.3rem;
-    font-size: .8rem;
+    font-size: .5rem;
     line-height: 20px;
 }
 #topbar .nav li.active a {
