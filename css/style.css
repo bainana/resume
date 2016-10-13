@@ -232,6 +232,7 @@ h3.skill{
     overflow: hidden;
 }
 .works-list li a img{
+    display:block;
     width: 100%;
     height: 100%;
     transition: all .6s;
